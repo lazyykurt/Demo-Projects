@@ -1,20 +1,10 @@
 # 📖 DEMO & PRPJECTS 集合
 
-> <div><p style="margin-bottom: 0.5em">结果最重要，其他都是扯淡 😅</p><p align="right">-- 鲁迅</p></div>
+> 
 
 此仓库主要为了记录个人的学习创作的成果 😁
 
-DEMO❓ 小而精
 
-- 学习 CSS @media @layer 规则后，做的一些 demo 样品；
-- 个人实现的 NavBar 等组件；
-- ...
-
-PROJECT❓ 功能完整
-
-- 可登录管理的个人 Blog 网站；
-- 临摹制作的 Microsoft Todo 网页
-- ...
 
 ## DEMO
 
@@ -26,10 +16,6 @@ PROJECT❓ 功能完整
 
 |                              名称                              |                    概述                     |        关键词         |   难度   |
 | :------------------------------------------------------------: | :-----------------------------------------: | :-------------------: | :------: |
-| [estate 租售房](https://github.com/lazyykurt/estate-fullstack) | MERN stack 项目，实现登录，发布，聊天等功能 | MERN stack，Sass 样式 | ⭐⭐⭐⭐ |
+| [estate 租售房](https://github.com/lazyykurt/estate-fullstack) | MERN stack 项目，实现登录，发布，聊天等功能 | MERN stack，Sass 样式 | ⭐⭐⭐ |
 
-## 结语
 
-喜欢此项目，请给我点个 ⭐。
-
-后续可能会出一个，技术学习总结的分享，敬请关注 🥰
