@@ -10,6 +10,7 @@
 
 |                              名称                               |                概述                |      关键词       | 难度 |
 | :-------------------------------------------------------------: | :--------------------------------: | :---------------: | :--: |
+| [admin-dashboard]((https://github.com/lazyykurt/design)) | 练习css的用法，网页布局和审美 | #css布局 #网页design | ⭐ |
 | [admin-dashboard](https://github.com/lazyykurt/admin-dashboard) | 基础静态页面，练习响应式，主题切换 | #响应式 #主题切换 | ⭐⭐ |
 
 ## PROJECT
