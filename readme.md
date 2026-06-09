@@ -17,6 +17,6 @@
 
 |                              名称                              |                    概述                     |        关键词         |   难度   |
 | :------------------------------------------------------------: | :-----------------------------------------: | :-------------------: | :------: |
-| [estate 租售房](https://github.com/lazyykurt/estate-fullstack) | MERN stack 项目，实现登录，发布，聊天等功能 | #MERN #stack #Sass 样式 | ⭐⭐⭐ |
+| [estate 租售](https://github.com/lazyykurt/estate-fullstack) | MERN stack 项目，实现登录，发布，聊天等功能 | #MERN #stack #Sass 样式 | ⭐⭐⭐ |
 
 
